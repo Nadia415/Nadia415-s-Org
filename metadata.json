@@ -1,0 +1,7 @@
+{
+  "name": "Koperasi SMP Nurul Ansor",
+  "description": "Sistem Informasi Koperasi Sekolah SMP Nurul Ansor untuk mengelola data anggota, iuran wajib, simpanan, pinjaman, angsuran, denda, toko kasir, dan laporan keuangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
